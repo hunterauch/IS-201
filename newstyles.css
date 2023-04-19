@@ -1,0 +1,27 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: navy;
+}
+h1{
+    color: navy;
+}
+.favorite{
+    font-family: cursive;
+    font-size: 15px;
+    color: navy;
+}
+.swag{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+ol{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: justify;
+}
